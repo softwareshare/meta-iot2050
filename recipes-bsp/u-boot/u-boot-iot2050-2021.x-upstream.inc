@@ -38,6 +38,7 @@ SRC_URI += " \
     file://upstream/0024-iot2050-Add-ICSSG0-Ethernet-support.patch \
     file://upstream/0025-iot2050-config-the-default-device-tree.patch \
     file://upstream/0026-enable-soc-device-ID-driver.patch \
+    file://upstream/0027-delete-pxe-and-dhcp-boot-target.patch \
     "
 
 U_BOOT_REV = "51f65b506f37252acb3cd4184ef5e1fc20da13a2"
